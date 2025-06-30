@@ -1,9 +1,11 @@
 # boottest
-Provide fast execution of the wild bootstrap with null imposed Use boottest With STATA 18
+Provide fast execution of the wild bootstrap with null imposed Use boottest With STATA 19
 
-Fast wild bootstrap-based inference Use boottest With STATA 18
+Fast wild bootstrap-based inference Use boottest With STATA 19
 
-Test linear hypotheses using wild or score bootstrap or Rao or Wald test for OLS, 2SLS, LIML, Fuller, k-class, or general ML estimation with classical, heteroskedasticity-robust, or (multi-way-) clustered standard errors and optional fixed effects Use boottest With STATA 18
+Test linear hypotheses using wild or score bootstrap or Rao or Wald test for OLS, 2SLS, LIML, Fuller, k-class, or general ML estimation with classical, heteroskedasticity-robust, or (multi-way-) clustered standard errors and optional fixed effects Use boottest With STATA 19
+
+https://www.youtube.com/watch?v=1q2imY1o5OM
 
 Olah Data Semarang
 
